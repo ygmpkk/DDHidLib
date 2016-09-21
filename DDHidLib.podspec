@@ -11,4 +11,6 @@ Pod::Spec.new do |s|
   s.exclude_files         = "DDHidLib/Tests"
   s.framework             = "Cocoa", "IOKit"
   s.requires_arc          = false
+  s.authors               = ""
+  s.license               = ""
 end
